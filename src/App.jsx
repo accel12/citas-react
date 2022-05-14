@@ -2,7 +2,7 @@ function App() {
   return (
     <div>
       <h1 className="text-3xl font-bold underline">
-      Hello world!
+      MY PRIMER COMMIT GIT
       </h1>
     </div>
   )
